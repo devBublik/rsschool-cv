@@ -1,1 +1,1 @@
-# rsschool-cv
+https://devbublik.io/rsschool-cv/cv
