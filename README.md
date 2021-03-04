@@ -1,1 +1,1 @@
-https://devbublik.io/rsschool-cv/cv
+https://devbublik.github.io/rsschool-cv/
