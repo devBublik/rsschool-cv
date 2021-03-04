@@ -1,0 +1,197 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 44px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li {
+    list-style: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.header {
+    margin-bottom: 10px;
+    height: 30%;
+    padding-top: 25px;
+}
+
+.wrapper {
+    background-color: #778899;
+}
+
+.container {
+    max-width: 1360px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.header__inner {
+    display: flex;
+    justify-content: start;
+}
+
+.header__title {
+    background-color: #F5F5F5;
+    width: 40%;
+    margin-right: 10px;
+    padding-bottom: 25px;
+    padding-left: 20px;
+    text-align: center;
+    font-weight: 700;
+}
+
+.header__title h1 {
+    padding-bottom: 20px;
+}
+
+.header__position {
+    margin-bottom: 20px;
+    display: block;
+    font-size: 24px;
+}
+
+.header__avatar {
+    width: 16%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-right: 10px;
+}
+
+.header__contacts {
+    background-color: #F8F8FF;
+    width: 42%;
+    text-align: center;
+    position: relative;
+}
+
+.e-mail,
+.telegram,
+.edu__school {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.e-mail::before {
+    content: "";
+    background-image: url('images/mail.svg');
+    background-repeat: no-repeat;
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    top: 88px;
+    left: 56px;
+}
+
+.e-mail:hover {
+    color: rgba(171, 130, 219, 0.144);
+}
+
+.telephone::before {
+    content: '';
+    background-image: url('images/phone.svg');
+    background-repeat: no-repeat;
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    bottom: 15px;
+    left: 92px;
+}
+
+.telephone:hover {
+    color: rgba(171, 130, 219, 0.144);
+}
+
+.telegram::before {
+    content: '';
+    background-image: url('images/telegram.svg');
+    background-repeat: no-repeat;
+    width: 22px;
+    height: 20px;
+    position: absolute;
+    bottom: 15px;
+    left: 92px;
+}
+
+.edu__skills__inner {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+.education {
+    width: 50%;
+    background-color: #F8F8FF;
+    padding: 25px;
+    padding-top: 0;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.education__university span {
+    display: block;
+    font-style: italic;
+    margin-bottom: 15px;
+}
+
+.skills {
+    width: 50%;
+    background-color: #F5F5F5;
+    text-align: center;
+    line-height: 30px;
+}
+
+.skills__list li {
+    padding-bottom: 15px;
+}
+
+.info {
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.info__inner {
+    display: flex;
+}
+
+.experience {
+    background-color: #F5F5F5;
+    margin-right: 10px;
+    padding: 25px;
+    padding-top: 0px;
+}
+
+.educational__project {
+    background-color: #F8F8FF;
+    margin-right: 10px;
+    padding: 25px;
+    padding-top: 0px;
+}
+
+.english__level {
+    background-color: #F5F5F5;
+    padding: 25px;
+}
