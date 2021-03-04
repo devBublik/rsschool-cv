@@ -1,1 +1,0 @@
-https://devbublik.io/rsschool-cv/cv
