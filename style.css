@@ -39,7 +39,11 @@ h5 {
     padding-top: 25px;
 }
 
-.wrapper {
+.contacts {
+    margin-bottom: 0px;
+}
+
+.main {
     background-color: #778899;
 }
 
@@ -93,7 +97,6 @@ h5 {
 .telegram,
 .edu__school {
     display: block;
-    margin-bottom: 10px;
 }
 
 .e-mail::before {
@@ -194,4 +197,15 @@ h5 {
 .english__level {
     background-color: #F5F5F5;
     padding: 25px;
+}
+
+.git {
+    width: 25px;
+    margin-right: 5px;
+}
+
+.github {
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
