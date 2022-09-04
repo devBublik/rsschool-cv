@@ -34,6 +34,4 @@ I'm full-time working developer in the bank.
 
 1. 2010 - 2015 SFU Economic theory
 2. 2020 - Course adaptive markup and styles from Vadim Procopchuk
-3. 2021 - JS/FE PRE-SCHOOL (JAVASCRIPT)
-
-[certificate](https://app.rs.school/certificate/zim4adi0)
+3. 2021 - JS/FE PRE-SCHOOL (JAVASCRIPT) - [My certificate](https://app.rs.school/certificate/zim4adi0)
