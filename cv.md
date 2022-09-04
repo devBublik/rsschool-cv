@@ -15,12 +15,12 @@ I'm full-time working developer in the bank.
 
 ## Skills
 
-- HTML
-- CSS, SCSS, SASS
-- GULP, WEBPACK
-- ADAPTIVE
-- JS
-- VUE
+- HTML;
+- CSS, SCSS, SASS;
+- GULP, WEBPACK;
+- ADAPTIVE;
+- JS;
+- VUE;
 
 ## Code example
 
