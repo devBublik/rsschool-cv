@@ -1,1 +1,1 @@
-# rsschool-cv
+https://devBublik.github.io/rsschool-cv/
